@@ -1,5 +1,5 @@
 # First-zsh-config
-**Hi, me from the future.** ***It's great to have made this, wasnt it..***
+**Hi, me from the future.** ***It's great to have made this, wasnt it?.***
 ---
 
 ⚠️ I've made this only for Mac and Linux(Ubuntu) devices. This will not work
