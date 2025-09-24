@@ -3,7 +3,7 @@
 ---
 
 ⚠️ I've made this only for Mac and Linux(Ubuntu) devices. This will not work
-on windows without a Linux Terminal Emulator.
+on Windows without a Linux Terminal Emulator.
 
 ## INSTALLATION
 
