@@ -29,9 +29,9 @@ need to switch to **zsh** for this project.
 - And then change your default shell to it as well:
   
       chsh -s /usr/local/bin/zsh
-**Finally,** we should add the plugin manager *Oh-My-Zsh*
+**Finally,** we should add the plugin manager **Oh-My-Zsh**
 
-There are plenty of cool plugins, like fzf and bat that I recommend looking into.
+*There are plenty of cool plugins, like fzf and bat that I recommend looking into.*
 
 **Install Oh-MY-Zsh! With this Command!**
 
@@ -51,8 +51,16 @@ To begin install, run this command:
 
 This is to make sure Color Palettes and the LSP plugin works on your system.
 
+
+--
+
+
+***Finally,*** clone the github repository to your home directory:
+
+    git clone https://github.com/ricardoag602/First-zsh-config
+
 ### 🎉**Hooray!!**,
-You have all the necesarry installations complete.
+You have all the necesarry installs complete.
 
 📂Now, we'll need to sort each file in the repo to its directory:
 
